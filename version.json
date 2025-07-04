@@ -1,5 +1,5 @@
 {
   "latest_version": 1.1,
-  "update_url": "https://play.google.com/store/apps/details?id=com.your.game",
-  "changelog": "<li>New levels added!</li><li>Bug fixes and performance improvements.</li>"
+  "update_url": "https://play.google.com/store/apps/details?id=com.your.package.name",
+  "changelog": "<li>New awesome features added!</li><li>Minor bug fixes and performance improvements.</li><li>Enjoy the updated version!</li>"
 }
