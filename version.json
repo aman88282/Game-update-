@@ -1,9 +1,9 @@
 {
-  "latest_version": 1.2, 
+  "latest_version": 1.0, 
   "promo_popup": {
     "enabled": true,
-    "image_url": "..."
+    "image_url": "https://aman88282.github.io/Game-update-/locksblock1.png"
   },
-  "update_url": "https://aman88282.github.io/Game-update-/locksblock1.png",
-  "changelog": "New system add"
+  "update_url": "...",
+  "changelog": "..."
 }
