@@ -1,5 +1,9 @@
 {
-  "latest_version": 1.0,
-  "update_url": "https://dl.surf/file/04f0109b",
-  "changelog": "<li>New awesome features added!</li><li>Minor bug fixes and performance improvements.</li><li>Enjoy the updated version!</li>"
+  "latest_version": 1.1, 
+  "promo_popup": {
+    "enabled": true,
+    "image_url": "https://aman88282.github.io/Game-update-/locksblock1.png"
+  },
+  "update_url": "...",
+  "changelog": "..."
 }
