@@ -4,7 +4,7 @@
   "changelog": "...",
   "promo_popup": {
     "enabled": true,
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/aman88282/Game-update-/refs/heads/main/file_00000000beb861f987f893695245c151.png"
+    "type": "video",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
 }
