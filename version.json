@@ -1,10 +1,10 @@
 {
   "latest_version": 1.1,
-  "update_url": "https://...",
+  "update_url": "...",
   "changelog": "...",
   "promo_popup": {
     "enabled": true,
-    "type": "video",
-    "url": "https://github.com/aman88282/Game-update-/raw/refs/heads/main/videoplayback%20(2)%20(2).mp4"
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/aman88282/Game-update-/refs/heads/main/file_00000000beb861f987f893695245c151.png"
   }
 }
