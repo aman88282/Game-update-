@@ -1,10 +1,10 @@
 {
-  "latest_version": 1.0,
-  "update_url": "",
-  "changelog": ".",
+  "latest_version": 1.1,
+  "update_url": ".",
+  "changelog": "...",
   "promo_popup": {
     "enabled": true,
     "type": "image",
-    "url": ".."
+    "url": "promo.png"
   }
 }
