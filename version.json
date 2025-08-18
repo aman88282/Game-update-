@@ -1,10 +1,10 @@
 {
   "latest_version": 1.1,
-  "update_url": "YOUR_UPDATE_URL_HERE",
-  "changelog": "<ul><li>New Features Added</li><li>Bug Fixes</li></ul>",
+  "update_url": "",
+  "changelog": "...",
   "promo_popup": {
     "enabled": true,
-    "type": "video",
+    "type": "image",
     "url": "https://raw.githubusercontent.com/aman88282/Game-update-/main/videoplayback%20(2)%20(2).mp4"
   }
 }
